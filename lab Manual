@@ -1,0 +1,77 @@
+
+Lab Manual
+
+SIEM and Information Security Incident Management
+
+Objective:
+
+The objective of this lab manual is to provide hands-on experience and practical exercises on Security
+Information and Event Management (SIEM) and Information Security Incident Management.
+Participants will gain practical knowledge on how SIEM works, its benefits, and best practices for
+effective incident management.
+
+Lab Setup:
+
+For this lab, you will need access to a SIEM solution. You can either use a cloud-based SIEM platform
+or set up a SIEM solution locally in a virtual environment. Additionally, ensure that you have access to
+various network devices, servers, endpoints, and applications to generate security events.
+
+Lab Exercises:
+
+Exercise 1: Introduction to SIEM
+Access the SIEM platform and log in with the provided credentials.
+Explore the SIEM dashboard and familiarize yourself with the various components such as event logs,
+alerts, and reports.
+Review the preconfigured correlation rules and policies in the SIEM solution.
+
+Exercise 2: 
+
+Event Collection and Normalization
+
+Configure data sources such as network devices, servers, endpoints, and applications to send logs to
+the SIEM platform.
+Verify that log data is being collected and normalized correctly by the SIEM solution.
+Review the normalized log data to ensure consistency and accuracy.
+
+Exercise 3: 
+
+Real-time Monitoring and Alerting
+
+Set up real-time monitoring rules to detect specific security events or anomalies.
+Generate test events or simulate security incidents to trigger alerts in the SIEM platform.
+Verify that alerts are generated promptly and investigate the triggered alerts to assess their severity
+and impact.
+
+Exercise 4: Incident Investigation and Response
+
+Analyze the details of the triggered alerts to understand the nature of the security incidents.
+Investigate the affected systems and network devices to determine the root cause of the incidents.
+Initiate response actions based on the severity of the incidents, such as isolating compromised
+endpoints or blocking malicious traffic.
+
+Exercise 5: 
+Compliance Reporting
+
+Generate compliance reports based on predefined templates or regulatory requirements.
+Review the generated reports to ensure that the organization's security posture aligns with
+compliance standards and policies.
+Identify any areas of non-compliance and take corrective actions as necessary.
+
+Exercise 6: Best Practices and Optimization
+
+Review the best practices for SIEM deployment and operation.
+Evaluate the performance and effectiveness of the SIEM solution based on key metrics such as
+detection rate, response time, and false positives.
+Identify areas for optimization and fine-tuning, such as updating correlation rules, adding new data
+sources, or integrating additional security tools.
+
+Lab Conclusion:
+
+In this lab, you have gained practical experience in using a SIEM solution for security event
+management and incident response. You have learned how to collect, normalize, monitor, and
+analyze security event data, as well as how to respond to security incidents effectively. By following
+best practices and continuous optimization, you can enhance the security posture of your
+organization and mitigate potential threats more efficiently.
+
+Additional Resources:
+SIEM vendor documentation and user guides.
