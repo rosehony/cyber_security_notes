@@ -1,0 +1,57 @@
+### Day 6, 7 & 8
+
+#### Data Classification
+
+- Prioritizing security measures and allocating resources effectively.
+- Categorizing data based on sensitivity, value, and regulatory requirements.
+- Common classifications: public, internal use, confidential, highly sensitive.
+- Implementing appropriate access controls and encryption.
+
+#### Risk Management
+
+- Identifying, assessing, and mitigating risks to the organization's assets, operations, and reputation.
+- Risk identification: potential threats, vulnerabilities, and impacts.
+- Risk assessment: evaluating likelihood and impact to determine significance.
+- Risk mitigation: implementing controls and measures to reduce risk.
+- Risk monitoring and review: continuously monitoring and reviewing the effectiveness of controls.
+
+#### Compliance to Standards and Regulations
+
+- Standards: guidelines and best practices for cybersecurity and data protection.
+- Regulations: legal requirements for cybersecurity and data protection.
+- Compliance requirements: implementing specific security controls, conducting risk assessments, data breach notifications.
+
+#### Challenges of Compliance
+
+- Resource constraints and cultural barriers.
+- Complexity of regulatory requirements.
+- Evolving threats and the need for continuous monitoring and improvement.
+- Interpreting and implementing regulatory guidelines effectively.
+
+#### Benefits of Compliance
+
+- Increased trust and confidence from customers, partners, and stakeholders.
+- Enhanced data security and protection.
+- Improved risk management practices.
+- Mitigation of legal and financial risks associated with non-compliance.
+
+#### Data Protection
+
+- Safeguard valuable assets through encryption methods.
+- Identify and prioritize the protection of sensitive information.
+- Apply appropriate security controls and access restrictions.
+
+#### Data Governance
+
+- Ensure data integrity, confidentiality, and availability.
+- Establish guidelines and policies for managing data.
+- Define access controls, retention periods, and data sharing protocols.
+
+#### Four Levels of Data Classification
+
+1. **Confidential Data**: Requires protection from unauthorized access or disclosure (customer PII, financial records).
+2. **Public Data**: Intended for unrestricted access (marketing materials, public website content).
+3. **Internal Use Data**: Not publicly disclosed, requires protection (internal memos, employee directories).
+4. **Highly Sensitive Data**: Highest level of protection, extreme sensitivity (classified government info, sensitive business strategies).
+
+This comprehensive overview highlights the importance of data classification, risk management, compliance, and data protection measures in ensuring the security and integrity of organizational data.
