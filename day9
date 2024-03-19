@@ -1,0 +1,71 @@
+### Identity and Access Management (IAM)
+
+IAM is a framework of policies, technologies, and processes that facilitates the management of digital identities, authentication, authorization, and access control within an organization's IT infrastructure. This presentation will cover the components of IAM, key services provided by IAM, and related concepts.
+
+### Identity Lifecycle Management
+
+- **Authentication**
+- **Authorization**
+- **Access Control**
+- **Privileged Access Management (PAM)**
+- **Identity Governance and Administration (IGA)**
+- **Directory Services**
+
+### Identity Lifecycle Management
+
+- Processes and procedures for managing the lifecycle of digital identities.
+- Includes provisioning, deprovisioning, and modification of user accounts and access rights.
+
+### Authentication
+
+- Includes passwords, multi-factor authentication (MFA), biometrics, and single sign-on (SSO) solutions.
+- Methods and mechanisms used to verify the identity of users or entities accessing IT resources.
+
+### Authorization
+
+- Based on roles, responsibilities, and least privilege principles.
+- Policies and controls governing access rights and permissions granted to authenticated users or entities.
+
+### Access Control
+
+- Determines the level of access based on identity, role, attributes, and contextual factors.
+- Mechanisms for enforcing access control policies.
+
+### Privileged Access Management (PAM)
+
+- Specialized controls and workflows for managing and monitoring privileged accounts.
+- Prevents misuse and unauthorized access to sensitive systems and data.
+
+### Identity Governance and Administration (IGA)
+
+- Includes segregation of duties (SoD) and access certification processes.
+- Frameworks and tools for defining, enforcing, and auditing identity-related policies and compliance requirements.
+
+### Directory Services
+
+- Includes LDAP directories and Microsoft Active Directory (AD).
+- Centralized repositories for storing and managing user identities, attributes, and access rights.
+
+### Authentication Services
+
+- Authorization Services
+- Identity Lifecycle Management Services
+- Directory Services
+- Access Management Services
+- Privileged Access Management (PAM) Services
+
+### Single Sign-On (SSO)
+
+- Mechanism that enables users to access resources across multiple domains or systems.
+- No need for separate authentication credentials for each domain.
+- Establishes trust relationships and securely shares authentication and authorization information.
+
+### Role-Based Access Control (RBAC) / Attribute-Based Access Control (ABAC)
+
+- **Role-Based Access Control (RBAC):**
+  - Grants permissions based on user roles within an organization.
+  - Simplifies access management and enforces the least privilege principle.
+  
+- **Attribute-Based Access Control (ABAC):**
+  - Granular access control model that considers various attributes.
+  - Evaluates multiple attributes to make access control decisions dynamically.
