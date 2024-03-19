@@ -1,0 +1,42 @@
+### Slide 6: Cryptography Principles - Integrity
+
+- **Detect any unauthorized modifications**: Integrity ensures that data remains unchanged during transmission or storage.
+- **Hash functions and digital signatures verify data integrity**: Hash functions create unique digital fingerprints of data, while digital signatures associate sender's identity with the message to verify its integrity.
+
+### Slide 7: Cryptography Principles - Authentication
+
+- **Authentication verifies the identity of communicating parties**: Digital signatures and cryptographic protocols are used to authenticate parties.
+- **HMAC provides a hash-based message authentication code**: HMAC ensures the authenticity and integrity of the message through hash functions.
+
+### Slide 8: Cryptography Principles - Non-repudiation and Availability
+
+- **Cryptography should not hinder availability and resist denial-of-service attacks**: Non-repudiation ensures that the sender cannot deny the authenticity or origin of a message.
+- **Digital signatures provide non-repudiation by associating sender's identity with the message**: This ensures accountability and authenticity in communication.
+
+### Common Cryptographic Concepts
+
+- **Confidentiality**: Ensuring only authorized parties can access information.
+- **Integrity**: Ensuring data remains unchanged during transmission/storage.
+- **Authentication**: Verifying the identity of communicating parties.
+- **Non-repudiation**: Ensuring sender cannot deny sending a message.
+- **Key Management**: Managing generation, distribution, and storage of cryptographic keys.
+
+### Cryptography Principles
+
+- **Symmetric Key Cryptography**: Uses a single key for both encryption and decryption.
+- **Asymmetric Key Cryptography**: Uses a pair of keys (public, private) for encryption and decryption respectively.
+- **Hash Functions**: Creates unique digital fingerprints of data.
+- **Steganography**: Hides data within another medium.
+
+### Types of Cryptography
+
+- **Advantages**: Provides confidentiality, integrity, authenticity, and enables secure communication and transactions.
+- **Disadvantages**: Requires computational resources, secure key management, and vulnerable to attacks if not properly implemented.
+
+### Applications of Cryptography
+
+- **Secure Communication**: Encrypting emails, instant messages, and voice calls.
+- **Data Protection**: Protecting sensitive data like passwords and financial information.
+- **Secure Transactions**: Securing online and financial transactions.
+- **Digital Signatures**: Verifying integrity and authenticity of digital documents.
+- **Blockchain Technology**: Ensuring security and immutability of blockchain data.
