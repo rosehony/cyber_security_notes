@@ -1,0 +1,33 @@
+### Day 3: Types of Threat Attackers
+
+#### Criminal Organizations
+- Engage in various cybercrimes such as data theft, fraud, ransomware attacks, and identity theft.
+- Organized groups primarily motivated by financial gain.
+- Example: Cybercriminal syndicates operating botnets to launch DDoS attacks or spread malware for profit.
+
+#### Nation-State Actors
+- Backed by governments or intelligence agencies.
+- Conduct cyber operations to achieve political, economic, or military objectives.
+- Example: Advanced Persistent Threat (APT) groups associated with nation-states conducting espionage, sabotage, or cyber warfare activities.
+
+#### Hacktivists
+- Individuals or groups hacking computer systems or websites for social or political causes.
+- Express dissent or protest against perceived injustices.
+- Example: Anonymous, a decentralized hacktivist collective known for cyber attacks against government agencies, corporations, and organizations.
+
+#### Insiders
+- Misuse their access for personal gain, revenge, or espionage.
+- Include employees, contractors, or business partners with authorized access to systems or data.
+- Example: An employee stealing sensitive intellectual property or customer data for sale on the dark web.
+
+### Hacking as a Process
+
+Hacking refers to the unauthorized intrusion into computer systems or networks to exploit vulnerabilities for various purposes. It typically involves the following stages:
+
+1. **Reconnaissance**: Gathering information about the target system or network.
+2. **Scanning**: Identifying vulnerabilities and weaknesses.
+3. **Gaining Access**: Exploiting vulnerabilities to gain unauthorized access.
+4. **Maintaining Access**: Establishing persistence within the system or network.
+5. **Covering Tracks**: Erasing evidence of the intrusion to avoid detection.
+
+Understanding the motivations and methods of threat actors is essential for cybersecurity professionals to develop effective defense strategies and protect against cyber threats.
