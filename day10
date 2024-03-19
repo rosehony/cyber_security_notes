@@ -1,0 +1,24 @@
+### Day 10 - Multi-Factor Authentication (MFA)
+
+#### Multi-Factor Authentication (MFA)
+
+- MFA adds an extra layer of security beyond passwords.
+- Requires two or more forms of authentication.
+- Common factors in MFA include something you know, something you have, and something you are.
+
+### Access Governance
+
+- Key components of access governance include access certification, segregation of duties (SoD), entitlement management, access request and approval, and access monitoring and reporting.
+- Manages access to resources in an organization's IT environment.
+
+### Customer IAM
+
+- Customer IAM focuses on managing the identities and access rights of customers and external users.
+- Key features of CIAM include user registration and onboarding, single sign-on (SSO), social login, consent management, self-service profile management, and identity verification.
+
+### API Security
+
+- Key aspects of API security include authentication, authorization, encryption, rate limiting, input validation and sanitization, auditing and monitoring, and secure development practices.
+- Protects APIs from unauthorized access and abuse.
+
+Thank you for your time and attention 🙂
