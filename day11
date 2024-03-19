@@ -1,0 +1,48 @@
+### Day 11 - Identity as a Service (IDaaS)
+
+#### Introduction
+
+- IDaaS (Identity as a Service) is a cloud-based service model providing identity and access management capabilities to organizations.
+
+#### Benefits of IDaaS
+
+- Cloud-based service model.
+- Offers identity and access management capabilities.
+
+#### Key Features of IDaaS
+
+- **User Authentication**: Secure access to applications and resources using various authentication methods such as passwords, MFA, and SSO.
+  
+- **User Provisioning and Lifecycle Management**: Policies and workflows for automated user account creation, updating, and deactivating.
+  
+- **Access Control and Authorization**: Secure resource access with granular controls based on roles, permissions, and contextual factors.
+  
+- **Directory Services**: Centralized user directories for managing user identities, attributes, and group memberships.
+  
+- **Identity Federation**: Establishing trust relationships across multiple domains/providers to enable single sign-on (SSO).
+  
+- **Compliance and Governance**: Ensure compliance and security through policy implementation, auditing mechanisms, and reporting capabilities.
+
+#### Granular Permissions
+
+- **Least Privilege Principle**: Providing users with the minimum levels of access required to perform their tasks.
+  
+- **Role-Based Access Control (RBAC)**: Granting permissions based on user roles within the organization.
+  
+- **Attribute-Based Access Control (ABAC)**: Granular access control model considering various attributes for access decisions.
+  
+- **Dynamic Access Controls**: Implementing access controls dynamically based on changing conditions.
+
+#### Privileged Identity Management
+
+- **Just-In-Time (JIT) Privileged Access**: Providing temporary privileged access as needed.
+  
+- **Privileged Session Management**: Monitoring and controlling privileged user sessions.
+  
+- **Privilege Elevation and Delegation**: Granting temporary elevated privileges for specific tasks.
+  
+- **Password Vaulting**: Securely storing and managing privileged account passwords.
+  
+- **Approval Workflows**: Implementing workflows for approving privileged access requests.
+
+Thank you for your time 😊
