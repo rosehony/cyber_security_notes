@@ -1,0 +1,45 @@
+### Day 12 - Information Security Incident Management with SIEM
+
+#### Introduction to SIEM
+
+- The goal is to detect and respond to security incidents effectively.
+- SIEM combines the capabilities of Security Information Management (SIM) and Security Event Management (SEM).
+- SIEM systems collect, correlate, analyze, and report on security-related data.
+
+#### Definition of Security Incident Management
+
+- **Security Incident Management** is the process of identifying, managing, and responding to security incidents.
+- Involves detecting security threats, investigating incidents, and restoring normal operations.
+- Goal: Minimize the impact of security breaches and prevent future incidents.
+
+#### The Cybersecurity Incident Management Process
+
+- **Detection**: Identifying security incidents through various means.
+- **Assessment**: Assessing the severity and impact of incidents.
+- **Containment**: Implementing measures to prevent further damage.
+- **Investigation**: Conducting a thorough investigation to determine the root cause.
+- **Remediation**: Developing and implementing a plan to address vulnerabilities.
+- **Communication**: Keeping stakeholders informed about the incident's status.
+- **Documentation**: Documenting all aspects of the incident management process.
+
+#### How does SIEM work?
+
+1. **Data Collection**: Collecting security-related data from various sources.
+2. **Normalization**: Standardizing and normalizing the collected data.
+3. **Correlation**: Correlating and analyzing security events in real-time.
+4. **Alerting**: Generating alerts for suspicious activities.
+5. **Investigation**: Providing tools for security analysts to investigate alerts.
+6. **Response Orchestration**: Integrating with incident response tools.
+7. **Reporting and Compliance**: Generating reports and audit trails for compliance.
+
+#### Benefits of SIEM
+
+- **Threat Detection and Response**: Real-time visibility into security events.
+- **Improved Security Posture**: Identifying security weaknesses proactively.
+- **Compliance and Reporting**: Facilitating compliance with regulations.
+- **Operational Efficiency**: Automating manual security tasks.
+- **Risk Management**: Assessing and mitigating cybersecurity risks.
+- **Continuous Monitoring**: Staying vigilant to emerging threats.
+- **Threat Intelligence Integration**: Enhancing threat detection capabilities.
+
+Thank you for your time 😊
